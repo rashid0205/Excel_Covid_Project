@@ -27,7 +27,13 @@ This project focuses on **cleaning and visualizing Covid-19 dataset** using **Ex
 
 ## ✨ Key Insights  
 - Covid-19 cases peaked in 2022 and 2023  
-- Europe and North America reported the highest total cases  
+- Europe and North America reported the highest total cases
+
+- ## 📊 Sample Visualizations
+
+### Covid-19 Cases by Year
+![Covid Cases by Year](covid_cases_by_year.jpg)
+
 - Oceania had the lowest number of cases among all continents  
 
 ---
